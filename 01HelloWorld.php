@@ -1,4 +1,3 @@
 <?
  printf("Hello World\n");
-
 ?>
