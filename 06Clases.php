@@ -2,12 +2,14 @@
 <head>
 <title>Clases PHP</title>
 </head>
-<body><H3>
+<body>
+<h1>Trabajando con Clases</h1>  
+
+<H3>
+
 <?php
 class Clase1
-{
-
- 
+{ 
   public function Texto($texto)
   {
         return $texto;

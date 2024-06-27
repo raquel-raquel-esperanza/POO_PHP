@@ -5,7 +5,7 @@
 <body>
     <h1>Switch</h1>
     <?php
-    $dia = 3;
+    $dia = 4;
     switch ($dia) {
         case 1:
             echo "Lunes";

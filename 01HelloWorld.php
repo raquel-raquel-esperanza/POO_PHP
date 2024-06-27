@@ -4,7 +4,8 @@
 </head>
 <body><H1>
 <?php
- printf("Hello World \n");
+//imprime un saludo
+printf("Hello World \n");
 ?>
 </H1><br>
 
