@@ -7,7 +7,7 @@
         <h1>Arrays</h1>
         <?php
         $arr = array(1, 2, 3, 4, 5);
-        echo $arr[3];
+        echo $arr[0];
         ?>
     </body>
 
